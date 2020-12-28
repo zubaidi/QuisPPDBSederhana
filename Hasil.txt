@@ -1,0 +1,10 @@
+ABDUL MUNIF; Teknik Kendaraan Ringan Otomotif (TKRO); 5; 15 April 2020 / 17:46 WIB
+ROHAYE; Teknik Bisnis Sepeda Motor (TBSM); 5; 15 April 2020 / 17:47 WIB
+DIANA; Tata Busana (TB); 6; Waktu Ujian : 15 April 2020 / 17:47 WIB
+ANISTA; Teknik Komputer dan Jaringan (TKJ); 6; Waktu Ujian : 15 April 2020 / 17:47 WIB
+ANISTI; Rekayasa Perangkat Lunak (RPL); 6; Waktu Ujian : 15 April 2020 / 17:47 WIB
+JOKO; Rekayasa Perangkat Lunak (RPL); 6; 15 April 2020 / 17:48 WIB
+SUSILO; Teknik Komputer dan Jaringan (TKJ); 6; 15 April 2020 / 17:49 WIB
+ISABELLA; Tata Busana (TB); 6; 15 April 2020 / 17:49 WIB
+DION; Teknik Bisnis Sepeda Motor (TBSM); 6; 15 April 2020 / 17:49 WIB
+GALANG; Teknik Kendaraan Ringan Otomotif (TKRO); 6; 15 April 2020 / 17:49 WIB
